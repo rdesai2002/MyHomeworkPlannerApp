@@ -1,2 +1,2 @@
-# MyHomeworkPlannerApp
-RSschoolProject
+A DEMO FOR 'MY HOMEWORK PLANNER'
+BETA ONLY
